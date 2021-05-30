@@ -120,6 +120,10 @@ img {
   opacity: 0;
 }
 
+.reveal.hidden {
+  transition: none;
+}
+
 
 @media (max-width: 500px) {
   .btn-white {
